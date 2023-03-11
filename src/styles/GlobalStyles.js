@@ -6,6 +6,7 @@ export default createGlobalStyle`
     padding: 0;
     border: 0;
     box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
     font-synthesis: none;
     font-size: 100%;
     text-rendering: optimizeLegibility;
@@ -19,6 +20,10 @@ export default createGlobalStyle`
   }
 
   body {
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
     font-size: 1.6rem;
+    background-color: ${({ theme }) => theme.purple900};
   }
 `;
