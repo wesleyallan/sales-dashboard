@@ -29,7 +29,7 @@
   </a>
 </p>
 
-## [✨ Deploy]()
+## [✨ Deploy](https://salesdashboard-wesleyallan.netlify.app/)
 
 ## 🚀 Tecnologias
 
