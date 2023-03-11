@@ -10,4 +10,7 @@ export default {
   green: '#81FBB8',
   black: '#4A4556',
   white: `#ffffff`,
+  gradientPurple: 'linear-gradient(121.94deg, #CE9FFC 15.98%, #7367F0 82.85%)',
+  gradientOrange: 'linear-gradient(121.94deg, #DF9780 15.98%, #A66DE9 82.85%)',
+  gradientCyan: 'linear-gradient(180deg, #90F7EC 0%, #32CCBC 100%)',
 };
