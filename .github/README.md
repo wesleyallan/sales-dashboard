@@ -61,7 +61,7 @@ Para instalar e executar o projeto é necessário as seguintes dependências.
 
 ```sh
 # Instalação
-git clone https://github.com/wesleyallan/dashboard-sales.git
+git clone https://github.com/wesleyallan/sales-dashboard.git
 cd boarding-pass
 npm install
 # Execução
